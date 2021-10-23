@@ -4,6 +4,9 @@
 
 [![Shakil's github stats](https://github-readme-stats.vercel.app/api?username=shakilsustswe&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ashikul-hasan-shakil-06015b197/)
+
+[![Email Badge](https://img.shields.io/badge/Email-ashiqul72@student.sust.edu-informational?style=flat&logo=&logoColor=white&color=0D76A8)]()
 
 <!--
 **shakilsustswe/shakilsustswe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
