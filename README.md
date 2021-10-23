@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+## I am SHAKIL studing Software Engineering at Shahjalal University of Science and Technology,Sylhet.
 <!--
 **shakilsustswe/shakilsustswe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
