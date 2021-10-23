@@ -3,6 +3,11 @@
 
 
 [![Shakil's github stats](https://github-readme-stats.vercel.app/api?username=shakilsustswe&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/shakilsustswe">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakilsustswe&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
 ## Connect with me:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ashikul-hasan-shakil-06015b197/)
 
@@ -34,23 +39,7 @@
  <br/>
  
  
- ![HTML5](https://img.shields.io/badge/html%205-4AB197?style=flat&logo=html5&logoColor=white&labelColor=grey)
-![CSS3](https://img.shields.io/badge/css%203-4AB197?style=flat&logo=css3&logoColor=white&labelColor=grey)
-![JavaScript](https://img.shields.io/badge/-JavaScript-4AB197?style=flat&logo=javascript&logoColor=white&labelColor=grey)
-![bootstrap](https://img.shields.io/badge/-bootstrap-4AB197?style=flat&logo=bootstrap&logoColor=white&labelColor=grey)
-![node](https://img.shields.io/badge/-node-4AB197?style=flat&logo=node.js&logoColor=white&labelColor=grey)
-![php](https://img.shields.io/badge/-php-4AB197?style=flat&logo=php&logoColor=white&labelColor=grey)
-<br>
-![mongodb](https://img.shields.io/badge/-mongodb-4AB197?flat&logo=mongodb&logoColor=white&labelColor=grey)
-![firebase](https://img.shields.io/badge/-firebase-4AB197?style=flat&logo=firebase&logoColor=white&labelColor=grey)
-![git](https://img.shields.io/badge/-git-4AB197?style=flat&logo=git&logoColor=white&labelColor=grey)
-![github](https://img.shields.io/badge/-github-4AB197?style=flat&logo=github&logoColor=white&labelColor=grey)
-<br>
-![python](https://img.shields.io/badge/-python-4AB197?style=flate&logo=python&logoColor=white&labelColor=grey)
-![Java](https://img.shields.io/badge/-java-4AB197?style=flate&logo=java&logoColor=white&labelColor=grey)
-![C](https://img.shields.io/badge/-c-grey?4AB197=flat&logo=c&logoColor=white&labelColor=grey)
-![git](https://img.shields.io/badge/-git-4AB197?style=flat&logo=git&logoColor=white&labelColor=grey)
-
+ 
 <!--
 **shakilsustswe/shakilsustswe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
