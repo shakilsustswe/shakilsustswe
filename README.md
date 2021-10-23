@@ -8,10 +8,6 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakilsustswe&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-## Connect with me:
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ashikul-hasan-shakil-06015b197/)
-
-[![Email Badge](https://img.shields.io/badge/Email-ashiqul72@student.sust.edu-informational?style=flat&logo=&logoColor=white&color=0D76A8)]()
 
 <br/>
 
@@ -39,6 +35,10 @@
  <br/>
  
  
+## Connect with me:
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ashikul-hasan-shakil-06015b197/)
+
+[![Email Badge](https://img.shields.io/badge/Email-ashiqul72@student.sust.edu-informational?style=flat&logo=&logoColor=white&color=0D76A8)]()
  
 <!--
 **shakilsustswe/shakilsustswe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
