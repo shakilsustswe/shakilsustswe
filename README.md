@@ -37,7 +37,7 @@
  
  ### Programming Profiles
 
-<a href="https://www.stopstalk.com/user/profile/shakilsustswe" target="_blank"><img alt="Stopstalk" src="https://user-images.githubusercontent.com/61650337/136102935-f1590e74-9c66-4505-805b-fcb162691127.png" width="50" height="50"></a>
+<a href="https://www.stopstalk.com/user/profile/shakilsustswe" target="_blank"><img alt="Stopstalk" src="https://user-images.githubusercontent.com/61650337/136102935-f1590e74-9c66-4505-805b-fcb162691127.png" width="200" height="50"></a>
 
 ## Connect with me:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ashikul-hasan-shakil-06015b197/)
