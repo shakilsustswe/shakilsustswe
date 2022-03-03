@@ -33,7 +33,13 @@
   - Android Studio 
   - CodeBlocks 
  <br/>
+ ### Programming Profiles
+
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/2000_AHS_sustswe18_72">
+  <img alt="Codeforces" src="https://user-images.githubusercontent.com/61650337/136100700-43b31347-476e-4f10-97e4-cd5bee891ea0.png" width="50" height="50">
+ </a>
  
+ <a href="https://www.stopstalk.com/user/profile/https://www.stopstalk.com/user/profile/shakilsustswe" target="_blank"><img alt="Stopstalk" src="https://user-images.githubusercontent.com/61650337/136102935-f1590e74-9c66-4505-805b-fcb162691127.png" width="200" height="50"></a>
  
 ## Connect with me:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ashikul-hasan-shakil-06015b197/)
