@@ -4,6 +4,7 @@
 
 [![Shakil's github stats](https://github-readme-stats.vercel.app/api?username=shakilsustswe&show_icons=true&theme=dark)]
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakilsustswe&show_icons=true&theme=transparent)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 <a href="https://github.com/shakilsustswe">
