@@ -9,7 +9,7 @@
 <br/>
 
 ###### 🔭 I’m currently working on :                               
-  - Competitive programming
+  - Associate software engineer at Orbitax
   
 ###### 🌱 I’m currently learning :                                                                     
   - Competitive programming
