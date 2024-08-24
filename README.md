@@ -1,5 +1,6 @@
 ### Hi there 👋
-## I am SHAKIL.I completed my BSc in Software Engineering at Shahjalal University of Science and Technology, Sylhet. Now i am an associate software engineer at Orbitax, currently working with the .NET Core and Angular stack while also continuing with competitive programming.
+## I am SHAKIL. I completed My BSc in Software Engineering at Shahjalal University of Science and Technology, Sylhet. 
+## Now i am an associate software engineer at Orbitax, currently working with the .NET Core and Angular stack while also continuing with competitive programming.
 
 ![Shakil's github stats](https://github-readme-stats.vercel.app/api?username=shakilsustswe&show_icons=true&theme=tokyonight)
 
@@ -12,14 +13,17 @@
   
 ###### 🌱 I’m currently learning :                                                                     
   - Competitive programming
-  - Algorithms 
-  - Adobe illustrator
+  - Algorithms
+  - C#
+  - .Net Core
+  - Angular
   
 ###### 👯 I’m looking to collaborate with :
   - Other Competitive programmer 
 ###### ⚡ Fun fact: 
   - Photography
   - Travel
+  - Sports
   
 ###### Languages:
   - C &* C++
@@ -27,7 +31,10 @@
   - Java
 ###### Tools :
   - Android Studio 
-  - CodeBlocks 
+  - CodeBlocks
+  - Visual Studio
+  - Source Tree
+  - Docker Desktop 
  <br/>
  
  
