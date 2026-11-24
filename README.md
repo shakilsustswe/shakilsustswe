@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I am SHAKIL. I completed My BSc in Software Engineering at Shahjalal University of Science and Technology, Sylhet. 
-## Now i am an associate software engineer at Orbitax.
+## Now i am a software engineer at Syslabo Co. Ltd..
 
 ![Shakil's github stats](https://github-readme-stats.vercel.app/api?username=shakilsustswe&show_icons=true&theme=tokyonight)
 
@@ -9,17 +9,19 @@
 <br/>
 
 ###### 🔭 I’m currently working on :                               
-  - Associate software engineer at Orbitax
+  - Software engineer at Syslabo Co. Ltd.,
   
 ###### 🌱 I’m currently learning :                                                                     
   - Competitive programming
-  - Algorithms
+  - AI
   - C#
   - .Net Core
   - Angular
+  - PowerBI
+  - GRANDIT ERP System
   
 ###### 👯 I’m looking to collaborate with :
-  - Other Competitive programmer 
+  - Other Software Enginner 
 ###### ⚡ Fun fact: 
   - Photography
   - Travel
@@ -29,10 +31,12 @@
   - C &* C++
   - C# 
   - Java
-###### Tools :
-  - Android Studio 
-  - CodeBlocks
+  - Python
+###### Tools : 
   - Visual Studio
+  - Claude code
+  - SQL server
+  - Git
   - Source Tree
   - Docker Desktop 
  <br/>
