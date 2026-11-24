@@ -1,6 +1,6 @@
 ### Hi there 👋
-## I am SHAKIL. I completed My BSc in Software Engineering at Shahjalal University of Science and Technology, Sylhet. 
-## Now i am a software engineer at Syslabo Co. Ltd..
+## I’m Shakil. I graduated with a Bachelor’s degree in Software Engineering from Shahjalal University of Science and Technology (SUST), Sylhet, Bangladesh.
+## I previously worked as a Software Engineer at Orbitax Bangladesh Ltd. Now, I’m working as a Software Engineer at Syslabo Co., Ltd. in Japan.
 
 ![Shakil's github stats](https://github-readme-stats.vercel.app/api?username=shakilsustswe&show_icons=true&theme=tokyonight)
 
